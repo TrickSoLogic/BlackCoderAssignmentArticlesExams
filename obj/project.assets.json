@@ -10481,9 +10481,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderAssignmentArticlesExams.csproj",
-      "projectName": "BlackCoderAssignmentArticlesExams",
-      "projectPath": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderAssignmentArticlesExams.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
+      "projectName": "BlackCoderNewsArticlesExams",
+      "projectPath": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\obj\\",
       "projectStyle": "PackageReference",
