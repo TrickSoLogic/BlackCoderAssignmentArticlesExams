@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlackCoderAssignmentArticlesExams
+build_property.RootNamespace = BlackCoderAssignmentArticlesExams
+build_property.ProjectDir = C:\Users\visha\Desktop\Gitt\Check and upload new zips for own use\2 Naukari and git for prime\BlackCoderAssignmentArticlesExams\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\visha\Desktop\Gitt\Check and upload new zips for own use\2 Naukari and git for prime\BlackCoderAssignmentArticlesExams
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Account/_Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxfQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Articles/Articles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcQXJ0aWNsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Tests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Exercises/Answers/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxFeGVyY2lzZXNcQW5zd2Vyc1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Exercises/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxFeGVyY2lzZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Exercises/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxFeGVyY2lzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/Exercises/_FormForExercise.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxFeGVyY2lzZXNcX0Zvcm1Gb3JFeGVyY2lzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Tests/Test/_FormForTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcVGVzdFxfRm9ybUZvclRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Users/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/Desktop/Gitt/Check and upload new zips for own use/2 Naukari and git for prime/BlackCoderAssignmentArticlesExams/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hput5mkpuw
