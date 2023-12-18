@@ -15,3 +15,4 @@ namespace Articles.Models.DbModels
         public Test? Test { get; set; }
     }
 }
+    

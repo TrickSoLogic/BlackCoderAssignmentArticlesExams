@@ -5,3 +5,4 @@
         public abstract string GetFullUrl();
     }
 }
+    

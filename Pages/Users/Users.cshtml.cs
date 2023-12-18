@@ -12,7 +12,7 @@ namespace Articles.Pages.Users
     public class UsersModel : PageModel
     {
         readonly ArticlesContext context;
-        public UsersModel(ArticlesContext context)
+        public UsersModel(ArticlesContext context)  
             => this.context = context;
 
         public List<UserAndRole> UsersAndRoles { get; set; } = new();

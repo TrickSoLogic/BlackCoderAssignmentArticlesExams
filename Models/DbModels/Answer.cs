@@ -17,3 +17,4 @@ namespace Articles.Models.DbModels
         public Exercise? Exercise { get; set; }
     }
 }
+    

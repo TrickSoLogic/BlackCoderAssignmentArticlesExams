@@ -16,3 +16,4 @@ namespace Articles.API
             => JsonConvert.DeserializeObject<T>(await GetResponseBodyAsStringAsync());
     }
 }
+    

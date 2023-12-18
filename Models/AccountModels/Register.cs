@@ -15,3 +15,4 @@ namespace Articles.Models.AccountModels
         public string PasswordConfirm { get; set; }
     }
 }
+  

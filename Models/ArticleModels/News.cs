@@ -17,3 +17,4 @@ namespace Articles.Models.ArticleModels
         public string? NextPage { get; set; }
     }
 }
+  

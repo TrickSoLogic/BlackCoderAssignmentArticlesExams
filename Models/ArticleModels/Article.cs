@@ -31,7 +31,7 @@ namespace Articles.Models.ArticleModels
 
         [JsonProperty("image_url")]
         public string? ImageUrl { get; set; }
-
+          
         [JsonProperty("source_id")]
         public string? SourceId { get; set; }
 

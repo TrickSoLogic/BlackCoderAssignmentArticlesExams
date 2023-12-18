@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Articles.Pages.Users
 {
     [Authorize]
-    public class UserModel : PageModel
+    public class UserModel : PageModel  
     {
         readonly ArticlesContext context;
         readonly UserManager<User> userManager;

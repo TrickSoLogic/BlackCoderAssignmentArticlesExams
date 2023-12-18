@@ -17,3 +17,4 @@ namespace Articles.Models.AccountModels
         public bool RememberMe { get; set; }
     }
 }
+   

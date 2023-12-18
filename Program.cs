@@ -23,7 +23,7 @@ services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).Ad
 services.AddRazorPages().AddRazorRuntimeCompilation();
 
 
-
+  
 WebApplication app = builder.Build();
 
 

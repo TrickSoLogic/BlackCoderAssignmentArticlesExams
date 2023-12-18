@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj": {}
+    "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj": {
+    "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
+        "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
         "projectName": "BlackCoderNewsArticlesExams",
-        "projectPath": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
+        "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\obj\\",
+        "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\BlackCoderAssignmentArticlesExams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

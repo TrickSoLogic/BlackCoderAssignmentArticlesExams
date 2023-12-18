@@ -4,3 +4,4 @@ namespace Articles.Models.ViewModels
 {
     public record ExerciseAndStartAspFor(Exercise Exercise, string StartAspFor);
 }
+   

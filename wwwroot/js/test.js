@@ -21,7 +21,7 @@ for (let exercise of exercises) {
                     if (_answer.value === "False")
                         _answer.parentNode.style.backgroundColor = "red";
 
-                if (_answer.value === "True")
+                if (_answer.value === "True")  
                     _answer.parentNode.style.backgroundColor = "green";
             }
         });

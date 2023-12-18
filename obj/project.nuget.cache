@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8SV7TR/4bYi8WXGg6GBkMl18lDIkeRJlhu8Cqb4Saxu7wqW09glRSQSj9NaFfHdscrXuVxPP2hXforgOXbnGA==",
+  "dgSpecHash": "Jjjh9TvFhtoPmyRDCVQqMjkAyTaOB6WzNkWBmL73ztwyZIwoxv6W/fwemO/dxD/q6VwXccvYwJGpTUt/MSDYcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visha\\Desktop\\Gitt\\Check and upload new zips for own use\\2 Naukari and git for prime\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\BlackCoderAssignmentArticlesExams\\BlackCoderNewsArticlesExams.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

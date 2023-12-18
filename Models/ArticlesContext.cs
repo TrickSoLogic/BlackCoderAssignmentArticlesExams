@@ -16,7 +16,7 @@ namespace Articles.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             Test test = new();
-            test.Id = 1;
+            test.Id = 1;   
             test.Name = "first";
             test.Description = "It's the first test";
             test.ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigNzYMk99dNNwXhpIaLeN-ZTBhMaoi2LC9Q&usqp=CAU";

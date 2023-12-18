@@ -23,3 +23,4 @@ namespace Articles.Models.DbModels
         public List<ResultOfTest>? Results { get; set; }
     }
 }
+   

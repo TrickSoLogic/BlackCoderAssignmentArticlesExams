@@ -23,7 +23,7 @@
                     <div class="col-md-6"><img src=@test.ImageUrl /></div>
                     <div class="col-md-4">@test.Description</div>
                     @if (User.IsInRole("Admin"))
-                    {
+                    {  
                         <div class="col-md-2">
                             <a href="/Tests/Test/Edit?testId=@(test.Id)" class="btn btn-outline-primary">Edit</a>
                             <br><br>

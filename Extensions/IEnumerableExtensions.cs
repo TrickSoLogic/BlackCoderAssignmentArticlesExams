@@ -8,7 +8,7 @@
             while (count != randomIndexes.Count)
             {
                 int randomIndex = Random.Shared.Next(count);
-                if (!randomIndexes.Contains(randomIndex))
+                if (!randomIndexes.Contains(randomIndex))   
                     randomIndexes.Add(randomIndex);
             }
             return randomIndexes;
